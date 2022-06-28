@@ -7,7 +7,7 @@ const app = express();
 
 
 app.get('/',(req,res)=>{
-  res.send('Thanks God. 1')
+  res.send('Thanks God. 12')
 });
 
 app.listen(PORT,HOST);
